@@ -1,12 +1,12 @@
 # Hey, nice to see you! 👋
 
-I am a passionate Full-Stack developer with over 6 years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
+I am a passionate Full-Stack developer with over 6+ years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
 
  ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/code.gif)
 
 ## 🚀 Professional Summary
 
-I'm a results-driven Full-Stack developer with a proven track record of leading cross-functional teams and delivering end-to-end software solutions for complex business challenges. My work is characterized by a deep understanding of programming languages, development frameworks, and a commitment to creating innovative and efficient solutions.
+I'm a results-driven Full-Stack developer with a proven track record of leading cross-functional teams and delivering end-to-end software solutions for complex business challenges. My work is characterized by a deep understanding of programming languages, and development frameworks, and a commitment to creating innovative and efficient solutions.
 
 
 ## 🛠️ Technical Skills
