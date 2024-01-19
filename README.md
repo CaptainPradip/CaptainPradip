@@ -2,7 +2,7 @@
 
 I am a passionate Full-Stack developer with over 6+ years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
 
- ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/code.gif)
+ ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/SwaagerBill.jpg)
 
 ## 🚀 Professional Summary
 
