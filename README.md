@@ -1,6 +1,6 @@
 # Hey, nice to see you! 👋
 
-I am a passionate Full-Stack developer with over 6+ years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
+I am a passionate Full-Stack developer with over 8+ years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
 
 ![Visitor Count](https://profile-counter.glitch.me/CaptainPradip/count.svg)
 
