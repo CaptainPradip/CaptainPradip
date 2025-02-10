@@ -1,6 +1,26 @@
 # Hey, nice to see you! 👋
 
 I am a passionate Full-Stack developer with over 6+ years of experience in designing, developing, and delivering end-to-end software solutions. I have a strong educational background and a diverse set of technical skills.
+
+![Visitor Count](https://profile-counter.glitch.me/CaptainPradip/count.svg)
+
+### ⚙️ &nbsp;GitHub Streak Stats
+<p align="left">
+  <a href="https://github.com/CaptainPradip">
+    <img src="https://streak-stats.demolab.com/?user=CaptainPradip" alt="GitHub Streak Stats"/>
+  </a>
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/CaptainPradip">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaptainPradip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaptainPradip&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
+
+
 # - Live Demo: [Swagger Bill](https://swaggerbill.netlify.app/)
 
  ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/SwaagerBill.jpg)
