@@ -4,6 +4,15 @@ I am a passionate Full-Stack developer with over 8+ years of experience in desig
 
 ![Visitor Count](https://profile-counter.glitch.me/CaptainPradip/count.svg)
 
+
+# - Live Demo: [Swagger Bill](https://swaggerbill.netlify.app/)
+
+ ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/SwaagerBill.jpg)
+
+## 🚀 Professional Summary
+
+I'm a results-driven Full-Stack developer with a proven track record of leading cross-functional teams and delivering end-to-end software solutions for complex business challenges. My work is characterized by a deep understanding of programming languages, and development frameworks, and a commitment to creating innovative and efficient solutions.
+
 ### ⚙️ &nbsp;GitHub Streak Stats
 <p align="left">
   <a href="https://github.com/CaptainPradip">
@@ -19,15 +28,6 @@ I am a passionate Full-Stack developer with over 8+ years of experience in desig
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaptainPradip&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
-
-
-# - Live Demo: [Swagger Bill](https://swaggerbill.netlify.app/)
-
- ![Work GIF](https://github.com/CaptainPradip/Pradip-Nemane-Portfolio/blob/master/SwaagerBill.jpg)
-
-## 🚀 Professional Summary
-
-I'm a results-driven Full-Stack developer with a proven track record of leading cross-functional teams and delivering end-to-end software solutions for complex business challenges. My work is characterized by a deep understanding of programming languages, and development frameworks, and a commitment to creating innovative and efficient solutions.
 
 
 ## 🛠️ Technical Skills
